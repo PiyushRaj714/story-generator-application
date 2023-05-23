@@ -9,7 +9,7 @@ Customizable story settings such as character names, plot elements, and story ge
 Option to save generated stories to a text file for future reference.
 
 # Installation
-Clone the repository: git clone https://github.com/YourUsername/story-generator.git
+Clone the repository: git clone https://github.com/PiyushRaj714/story-generator.git
 Navigate to the project directory: cd story-generator
 Install the required dependencies: pip install -r requirements.txt
 
